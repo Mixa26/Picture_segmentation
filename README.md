@@ -17,12 +17,18 @@ All the analyzation, preprocessing etc. has been thoroughly described in the .ip
 These are some of the results of the overfitted models, and these are the results we want our model to generalize well.<br>
 We can see the model recognized a cat on the picture(blue color) and segmented it well. This is the result of a Fully Convolutional neural network.
 
+### FCN
+
 ![pic1](pictures/Immagine.jpg)
 
 Here is a result of the adjusted MobileNet which successfully segmented and recognized a dog(yellow color).
 
+### MobileNetV2
+
 ![pic2](pictures/Immagine1.jpg)
 
 Another example of a dog segmentation by a neural network inspired by the ParseNet arhitecture
+
+### ParseNet
 
 ![pic3](pictures/Immagine2.jpg)
